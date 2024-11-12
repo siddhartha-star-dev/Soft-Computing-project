@@ -3,17 +3,17 @@ Link for Children Stories data
 https://drive.google.com/drive/folders/13RuaaE4iNsFYRTLIt8ldSh-Wei0NN-uf?usp=drive_link
 
 ## Multimodel Sentiment Analysis of Hinglish memes
-#Link for Multimodel Sentiment Analysis of Hinglish memes
+#Link for Multimodel Sentiment Analysis of Hinglish memes<br/>
 https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k
 
 ### Multimodal Model Structure
-Text Processing: Handled by DistilBERTMulti, capturing semantic nuances and contextual cues from the text.
-Image Processing: Handled by VGG16, extracting visual features from images.
+Text Processing: Handled by DistilBERTMulti, capturing semantic nuances and contextual cues from the text.<br/>
+Image Processing: Handled by VGG16, extracting visual features from images.<br/>
 Feature Fusion: Combines features extracted from both text and images to learn joint representations that capture both visual and textual semantics.
 
 ### Results
-Average score for both sentiment analysis and Emotion Sentiment Analysis
-Model	                                Accuracy	Precision	Recall	F1-score
+Average score for both sentiment analysis and Emotion Sentiment Analysis<br/>
+Model	                                Accuracy	Precision	Recall	F1-score<br/>
 Multimodal (DistilBERTMulti + VGG16)	0.8203	  0.7972	  0.8203	0.7882
 
 ### Conclusion
